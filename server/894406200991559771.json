@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "mc.hypixel.net",
+    "key": "server-hypixel",
+    "name": "Hypixel Network"
+  },
+  {
+    "uid": "mc.universocraft.com",
+    "key": "server-universocraft",
+    "name": "UniversoCraft Network"
+  },
+  {
+    "uid": "play.oc.tc",
+    "key": "server-octc",
+    "name": "Overcast Community Network"
+  },
+  {
+    "uid": "play.mineway.org",
+    "key": "server-mineway",
+    "name": "Mineway Network"
+  },
+  {
+    "uid": "losvatosdelminecraft.mcnetwork.me",
+    "key": "server-lvdmc",
+    "name": "Los Vatos del Minecraft"
+  },
+  {
+    "uid": "localhost",
+    "key": "server-localhost",
+    "name": "Servidor local"
+  }
+]
