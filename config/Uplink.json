@@ -1,0 +1,10 @@
+{
+  "clientId": "894406200991559771",
+  "smallDataUid": "",
+  "hideUnknownIPs": false,
+  "displayUrls": {
+    "gui": "https://raw.githubusercontent.com/JohnyDeCoder/Uplink-Mod-JSON-Files/main/gui/es.json",
+    "server": "https://raw.githubusercontent.com/JohnyDeCoder/Uplink-Mod-JSON-Files/main/server/894406200991559771.json",
+    "small": "https://raw.githubusercontent.com/JohnyDeCoder/Uplink-Mod-JSON-Files/main/small/894406200991559771.json"
+  }
+}
