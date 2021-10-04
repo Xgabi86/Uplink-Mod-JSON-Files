@@ -10,13 +10,11 @@
   },
   "inGame": {
     "multiPlayer": {
-      "smallDataUid": "online",
       "largeImageText": {
         "unknown": "Servidor desconocido",
         "ip": "IP del servidor: %s"
       },
       "state": "Jugando con ",
-      "ip": "IP del servidor: %s",
       "details": "Nickname: %s"
     },
     "singlePlayer": {
