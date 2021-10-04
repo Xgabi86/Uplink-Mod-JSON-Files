@@ -15,8 +15,8 @@
         "ip": "IP del servidor: %s"
       },
       "state": "Jugando con ",
-      "details": "Nickname: %s",
-      "ip": "IP del servidor: %s"
+      "ip": "IP del servidor: %s",
+      "details": "Nickname: %s"
     },
     "singlePlayer": {
       "state": "Jugando en singleplayer...",
