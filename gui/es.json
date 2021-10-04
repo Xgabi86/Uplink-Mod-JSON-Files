@@ -21,7 +21,8 @@
     "singlePlayer": {
       "state": "Jugando en singleplayer...",
       "largeImageText": "Mundo: %s",
-      "details": "Nickname: %s"
+      "details": "Nickname: %s",
+      "smallDataUid": "busy"
     }
   }
 }
