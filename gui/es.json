@@ -14,6 +14,7 @@
         "unknown": "Servidor desconocido",
         "ip": "IP del servidor: %s"
       },
+      "smallDataUid": "online",
       "state": "Jugando con ",
       "ip": "IP del servidor: %s",
       "details": "Nickname: %s"
