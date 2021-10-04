@@ -30,6 +30,11 @@
     "name": "En línea"
   },
   {
+    "uid": "busy",
+    "key": "icon-busy",
+    "name": "Ocupado"
+  },
+  {
     "uid": "server-hypixel",
     "key": "server-hypixel",
     "name": "Hypixel"
