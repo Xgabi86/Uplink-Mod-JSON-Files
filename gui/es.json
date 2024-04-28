@@ -1,26 +1,26 @@
 {
   "mainMenu": {
-    "state": "En el menú principal",
+    "state": "Dans le menu principal",
     "largeImageText": "Minecraft"
   },
   "loadingGame": {
-    "state": "Cargando...",
+    "state": "Chargement...",
     "largeImageText": "Minecraft",
-    "details": "Con %d mods"
+    "details": "Avec %d mods"
   },
   "inGame": {
     "multiPlayer": {
       "largeImageText": {
-        "unknown": "Servidor desconocido",
-        "ip": "IP del servidor: %s"
+        "unknown": "Serveur inconnu",
+        "ip": "IP du serveur: %s"
       },
-      "state": "Jugando con ",
-      "details": "Nickname: %s"
+      "state": "En jeu avec ",
+      "details": "Pseudo : %s"
     },
     "singlePlayer": {
-      "state": "Jugando en singleplayer...",
-      "largeImageText": "Mundo: %s",
-      "details": "Nickname: %s",
+      "state": "En jeu en solo...",
+      "largeImageText": "Monde : %s",
+      "details": "Pseudo : %s",
       "smallDataUid": "busy"
     }
   }
