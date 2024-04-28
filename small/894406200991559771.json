@@ -7,7 +7,7 @@
   {
     "uid": "state-load",
     "key": "state-load",
-    "name": "Cargando Minecraft..."
+    "name": "Chargement de Minecraft..."
   },
   {
     "uid": "state-menu",
@@ -22,17 +22,17 @@
   {
     "uid": "state-unknown-server",
     "key": "state-unknown-server",
-    "name": "Minecraft: Servidor desconocido"
+    "name": "Minecraft: Serveur inconnu"
   },
   {
     "uid": "online",
     "key": "icon-online",
-    "name": "En línea"
+    "name": "En ligne"
   },
   {
     "uid": "busy",
     "key": "icon-busy",
-    "name": "Ocupado"
+    "name": "Occupé"
   },
   {
     "uid": "server-hypixel",
@@ -40,23 +40,8 @@
     "name": "Hypixel"
   },
   {
-    "uid": "server-octc",
-    "key": "server-octc",
-    "name": "OC.TC"
-  },
-  {
-    "uid": "server-universocraft",
-    "key": "server-universocraft",
-    "name": "Universocraft"
-  },
-  {
-    "uid": "server-mineway",
-    "key": "server-mineway",
-    "name": "Mineway"
-  },
-  {
-    "uid": "server-lvdmc",
-    "key": "server-lvdmc",
-    "name": "Los Vatos del Minecraft"
+    "uid": "server-gamity",
+    "key": "server-gamity",
+    "name": "Gamity"
   }
 ]
