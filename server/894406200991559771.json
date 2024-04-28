@@ -25,6 +25,11 @@
     "name": "losvatosdelminecraft.mcnetwork.me"
   },
   {
+    "uid": "proxy.gamity-pvp.fr",
+    "key": "server-gamity",
+    "name": "proxy.gamity-pvp.fr"
+  },
+  {
     "uid": "localhost",
     "key": "server-localhost",
     "name": "Servidor local (LAN)"
